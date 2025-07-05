@@ -16,4 +16,11 @@ to access the endpoints
     curl http://localhost:9000/files/test.txt
 ```
 
+### Socket server
+```bash
+    # To run server
+    python client-server-socket.py server
 
+    # To run client
+    python client-server-socket.py
+```
